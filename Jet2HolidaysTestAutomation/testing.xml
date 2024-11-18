@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2"
+   preserve-order="true" name="C:/Users/tusha/IdeaProjects/Jet2HolidayAutomation/src/test/java/com/jet2holiday/testcases/Tests.java">
+    <classes><class name="com.Jet2Holiday.qa.test"><methods><include name="BookHolidayWithUserAccount"/><include name="BookHolidayWithoutUserAccount"/>
+    </methods></class></classes></test></suite>
